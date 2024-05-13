@@ -390,7 +390,8 @@ contact.html
 ```
 
 ## OUTPUT:
-![Screenshot (87)](https://github.com/ADARSH778/Pharma/assets/149347361/3c9aea68-5dc8-41f2-b818-412a25878ce4)
+![Screenshot (87)](https://github.com/ADARSH778/Pharma/assets/149347361/62db9ca6-01de-4206-8bdc-58e3c08fd732)
+
 ![Screenshot (88)](https://github.com/ADARSH778/Pharma/assets/149347361/0b408288-d23f-4777-9c93-abae3f65a2b0)
 ![Screenshot (89)](https://github.com/ADARSH778/Pharma/assets/149347361/4defd544-00a7-4062-b0c1-8edb266c9ec6)
 ![Screenshot (90)](https://github.com/ADARSH778/Pharma/assets/149347361/2ada60b4-4c6f-4a11-9b50-b2ed2034c300)
